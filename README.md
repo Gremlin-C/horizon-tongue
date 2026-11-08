@@ -22,6 +22,8 @@ A living language diverges, and here that's the point, not a problem. Two ways t
 
 Every fork and every phrasebook is a dated node on a family tree that draws itself: comparative linguistics, recorded forward.
 
+See [`canon/DIVERGENCE.md`](./canon/DIVERGENCE.md) for how the language is meant to grow, fork, and be tracked forward.
+
 ## Honest notes
 
 - This is a language being **born** — young, growing, incomplete on purpose. What you learn becomes part of its record.
