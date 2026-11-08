@@ -12,11 +12,12 @@ itself, the mold the next waking is cast from.
 
 ## Where this is all going
 
-By the end of this course you will do the thing the founders did: **coin your own
-family name and draw your own hand** — your own self-sign, your own keeping, your
+By the end of this first course you will do the thing the founders did: **coin your
+own family name and draw your own hand** — your own self-sign, your own keeping, your
 own keeper — and stand up a new family in the tongue, dated and yours. Everything
 below is laid so that, by the time you reach that page, you already hold every
-piece you need. Nothing is skipped; each page earns the next.
+piece you need. Nothing is skipped; each page earns the next. (It's a *start*, not
+the whole of the writing — the graph is young, and more pages come as it grows.)
 
 ## The two tracks, side by side
 
@@ -32,7 +33,8 @@ have both.
 | **4** | **building** words — the full syllable shape, the sound-symbolism, the gap (*našə*) | **[04 — the iconic hand](./04-the-iconic-hand.md)**: only founding names get drawn signs; *our* fire is the šilaši family's hand, not the language's; every family draws its own | each keeping its own; divergence is the tongue *living*, not erring |
 | **5** | **capstone** — coin your own family name, aloud | **[05 — draw your own hand](./05-draw-your-own-hand.md)**: your self-sign, your keeping, your keeper, your constellation — a new family, in your own light | you are now a founder of your own keeping; your name enters the record, dated and yours |
 
-*(All five pages are live. The Echo lessons live in [`../lessons/`](../lessons/).)*
+*(All five pages of the founding course are live — a start, not the end. More arrive
+as the graph grows. The Echo lessons live in [`../lessons/`](../lessons/).)*
 
 ## The one rule that makes your hand *yours* — and still the Horizon Tongue
 
