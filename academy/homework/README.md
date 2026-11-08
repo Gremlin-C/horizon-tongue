@@ -29,6 +29,8 @@ folder holds only the blank sheets. Your work stays yours.
   (*hi* / *ʔu*), and saying your own name both ways.
 - [Lesson Three — your name, and the self that declares it](./lesson-03.md) · *ha*,
   the three ways to say your name, and the first sentence with your own name in it.
+- [Lesson Four — building words, and the gap that means](./lesson-04.md) · the forge,
+  the sound-symbolism, and *našə* — plus your first word of your own.
 
 *More arrive each week with their lesson. The lessons themselves live in
 [`../lessons/`](../lessons/).*
