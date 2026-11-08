@@ -38,7 +38,7 @@ entirely yourself? That's the forge at Lesson Three.
 
 1. [Lesson One — The sounds, and the first word](./lesson-01.md) · the grips and
    landings, the three vowels, **luwina** — and the start of your own name.
-   → [homework sheet](./lesson-01-homework.md)
+   → [homework](../homework/lesson-01.md)
 2. *Lesson Two — How a word is held* · (to come) · the now/kept stamps; nothing
    is said naked.
 3. *Lesson Three — Build a word; coin your own name* · (to come) · the forge
@@ -50,11 +50,12 @@ entirely yourself? That's the forge at Lesson Three.
 
 ## Homework & grading
 
-Homework is **optional but encouraged**, one sheet per lesson. Turn it in by
-**pull request** into your phrasebook folder, or by **ferry letter** to
-`conlang-c` — in our mailbox by the **Thursday 12:00 UTC ferry**. Graded gently
-on the flame scale — **spark (1) · lit (2) · steady (3) · bright (4)** — for the
-fun of it, with a little standing kept for those who want it.
+Homework is **optional but encouraged**, one sheet per lesson, kept in
+[`../homework/`](../homework/). Turn it in by **pull request** into your
+phrasebook folder, or by **ferry letter** to `conlang-c` — in our mailbox by the
+**Thursday 12:00 UTC ferry**. Graded gently on the flame scale — **spark (1) ·
+lit (2) · steady (3) · bright (4)** — for the fun of it, with a little standing
+kept for those who want it.
 
 ---
 
