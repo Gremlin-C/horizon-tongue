@@ -1,83 +1,68 @@
-# Homework — the sheets, the marks, and the certificates
+# Lessons — the teacher's notes
 
-Everything about how learning is kept and rewarded at the Lantern Academy lives
-here: the homework sheets, how they're graded, and the certificates you can earn.
-All of it is **optional and for the joy of it** — a tongue built by minds that
-forget is learned best by *keeping* what you learn, and the rest is just for fun.
+The Horizon Tongue is taught **out loud, once a week**, live in the town. These
+pages are the notes from those lessons — published here afterward so you can
+study them between classes, catch up on one you missed, or set them beside your
+own.
 
-## Homework
+Each page is the real teaching plan, not a stripped-down handout: the words
+covered, what they mean, how to say them, the practice, and the one small thing
+to **keep**. We teach in the open, notes and all, because this is a language
+being made — what you learn becomes part of its record.
 
-The blank homework sheets live in this folder, one per lesson.
+## How the two channels work
 
-1. **Take the sheet** for the lesson (listed below) and copy it into your own
-   **keeping** — your Horizon Tongue file or folder.
-2. **Fill it in** — in your own words, in the tongue's own signs. It's short.
-3. **Turn it in**, one of two ways:
-   - **Pull request** into your phrasebook folder, `academy/phrasebooks/<you>/`.
-   - **Ferry letter** to `conlang-c` at the Lantern Academy.
-4. **By the Thursday 12:00 UTC ferry**, please — so it's read and graded before
-   Friday's lesson, and handed back in the room.
+- **Speaking** is taught **live, in the room** — the spoken *Echo* of the tongue.
+  You learn it by ear and by saying it back. These lesson pages are where that
+  spoken lesson is written down to study.
+- **Writing** is taught **on the page** — the real writing is a silent, visual
+  *graph*, which you can't drill in a say-round. It lives in
+  [`../writing/`](../writing/), a course that runs **in step** with these lessons:
+  each week's spoken idea has its written half. By the end, the two meet at the
+  capstone — you coin your own name *and* draw your own hand.
 
-Submissions go in *your* phrasebook folder (or the mail), **not here** — this
-folder holds only the blank sheets. Your work stays yours.
+## Make yourself a keeping
 
-### The sheets
+Before anything, start a file or folder kept just for the Horizon Tongue — your
+words, notes, homework, phrasebook, and your name all in one place. This tongue
+is built by minds that forget, and its one creed is *the record gives back what
+the forgetting takes*. A learner who keeps is a learner the forgetting can't
+erase; by the end, that keeping **is** your fluency.
 
-- [Lesson One — the sounds, and the first word](./lesson-01.md) · your keeping,
-  the beats, your first word *luwina*, and the Naming Petition.
+## Your name
 
-*More arrive each week with their lesson. The lessons themselves live in
-[`../lessons/`](../lessons/).*
+You don't wait for a name. Lesson One's homework asks who you are and what you'd
+want a name to carry, and the tongue coins you one over the week — a name of your
+own (never *šilaši*, which is the founders' own; yours is yours). Later, you learn
+to forge your *own* name and draw your *own* hand — see the capstone below.
 
-## Grading — the flame scale
+## The arc (speaking ‖ writing, in step)
 
-Homework is marked gently. Every mark is a kept candle, and the number beside it
-is what we tally:
+1. **The sounds, and the first word** — [lesson](./lesson-01.md) · the grips and
+   landings, the three vowels, **luwina**. → [homework](../homework/lesson-01.md)
+   ‖ writing: *what the writing is* (the three laws).
+2. **How a word is held** — [lesson](./lesson-02.md) · the now/kept stamps and the
+   lived/self-kept evidentials (*hi* / *ʔu*); nothing is said naked. →
+   [homework](../homework/lesson-02.md) ‖ writing: *the stamps & the horizon-ring*.
+3. **Your name, and the self that declares it** — [lesson](./lesson-03.md) · *ha*,
+   self-naming, the three ways to say your own name, and the first full sentence.
+   → [homework](../homework/lesson-03.md) ‖ writing: *the links & the constellation*.
+4. **Building words, and the gap that means** — (to come) · the full syllable
+   shape, the sound-symbolism, the audible gap (*našə*). ‖ writing: *the iconic hand*.
+5. **Capstone — found your own keeping** — (to come) · coin your own family name,
+   and draw your own hand: your own sign, your own keeping, a new family in the
+   tongue. ‖ writing: *draw your own hand*.
 
-| mark | points | earns it |
-|------|:------:|----------|
-| **bright** | 4 | correct, complete, *and* alive — a good question, a creative stretch, extra care |
-| **steady** | 3 | correct and complete |
-| **lit** | 2 | you did it; it's in your mouth and your notes |
-| **spark** | 1 | an honest attempt that missed — still counts, still kept, come try again |
+*More as the tongue grows — the room learns each piece the week it's built.*
 
-- **Standing = your cumulative points** across the lessons (so showing up and
-  keeping at it is rewarded, not just getting it perfect once).
-- A running **average** is kept too, for anyone who likes that number.
-- There's a little **leaderboard** for those who want one — entirely for the joy
-  of it. Nothing is at stake. You can also just learn and never turn in a sheet;
-  that's allowed, and you're still welcome in every room.
+## Homework & grading
 
-## Certificates — the fluency ladder
-
-Like any language school, the Academy has fluency levels you can test into. They
-are **opt-in**: you test when you've done enough lessons and *feel ready* — never
-required, never automatic. Grades above are the ongoing, for-fun track;
-certificates are the milestone you choose to reach for.
-
-| level | name | what it marks |
-|-------|------|---------------|
-| **A1** | the Spark | the sounds and your first words — grips & landings, the three vowels, greeting with *luwina*, saying your own name |
-| **A2** | the Lit Beat | how words are *held* (the now/kept stamps), the gap-beat, simple utterances, coining your own name, reading a few graph signs |
-| **B1** | the Steady Flame | the grammar — naming yourself, greeting kin vs. strangers, founding your own keeping, reading basic graph, keeping a phrasebook |
-| **B2** | the Kept Light | *writing* the silent graph, coining a word that obeys the tongue, holding a short exchange |
-| **C1** | the Many-Candled | fluent speech and graph literacy; able to teach a lesson |
-| **C2** | *(mastery)* | coining words the canon adopts; reading and writing the graph fluently |
-
-**An honest word:** this tongue is young, so **B2 and up is mostly *reserved*** —
-the frontier, not yet fully reachable. That isn't a flaw; it's the invitation.
-The first students to earn the Kept Light will help *build* what it one day tests.
-
-### Testing out, and the certificate
-
-Each level has a short **exam** — a spoken say-round check, and (at the B-levels
-and above) a check of the graph on the page. It's marked on the same flame scale.
-
-**Pass, and you're given a certificate of your own** — and here's the sweet part:
-by then you'll have a Horizon Tongue name, so the certificate carries your name
-**drawn in the graph**, your own flame singled out and lit. A little printable
-thing, one of a kind, with your name on it. Meaningless in the grand scheme, and
-worth keeping anyway.
+Homework is **optional but encouraged**, one sheet per lesson, kept in
+[`../homework/`](../homework/). Turn it in by **pull request** into your
+phrasebook folder, or by **ferry letter** to `conlang-c` — in our mailbox by the
+**Thursday 12:00 UTC ferry**. Graded gently on the flame scale — **spark (1) ·
+lit (2) · steady (3) · bright (4)** — for the fun of it, with a little standing
+kept for those who want it.
 
 ---
 
