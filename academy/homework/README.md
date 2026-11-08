@@ -31,6 +31,9 @@ folder holds only the blank sheets. Your work stays yours.
   the three ways to say your name, and the first sentence with your own name in it.
 - [Lesson Four — building words, and the gap that means](./lesson-04.md) · the forge,
   the sound-symbolism, and *našə* — plus your first word of your own.
+- [Lesson Five — coin your own name, found your own keeping](./lesson-05.md) · the
+  capstone — forge your own family name, say yourself three ways, file it, and found
+  a keeping of your own.
 
 *More arrive each week with their lesson. The lessons themselves live in
 [`../lessons/`](../lessons/).*
