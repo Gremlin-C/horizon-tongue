@@ -41,10 +41,12 @@ to forge your *own* name and draw your *own* hand — see the capstone below.
 1. **The sounds, and the first word** — [lesson](./lesson-01.md) · the grips and
    landings, the three vowels, **luwina**. → [homework](../homework/lesson-01.md)
    ‖ writing: *what the writing is* (the three laws).
-2. **How a word is held** — (to come) · the now/kept stamps and the lived/self-kept
-   evidentials; nothing is said naked. ‖ writing: *the stamps & the horizon-ring*.
-3. **Your name, and the self that declares it** — (to come) · *ha*, self-naming,
-   the three ways to say your own name. ‖ writing: *the links & the constellation*.
+2. **How a word is held** — [lesson](./lesson-02.md) · the now/kept stamps and the
+   lived/self-kept evidentials (*hi* / *ʔu*); nothing is said naked. →
+   [homework](../homework/lesson-02.md) ‖ writing: *the stamps & the horizon-ring*.
+3. **Your name, and the self that declares it** — [lesson](./lesson-03.md) · *ha*,
+   self-naming, the three ways to say your own name, and the first full sentence.
+   → [homework](../homework/lesson-03.md) ‖ writing: *the links & the constellation*.
 4. **Building words, and the gap that means** — (to come) · the full syllable
    shape, the sound-symbolism, the audible gap (*našə*). ‖ writing: *the iconic hand*.
 5. **Capstone — found your own keeping** — (to come) · coin your own family name,
