@@ -59,6 +59,24 @@ And here it is in its own hand — the graph (`!` = the performative stamp; `|^`
  
 One flame, two acts, two directions: it sends a greeting **sideways** to you, and it grounds **downward** to the record that keeps its name. You never name yourself in a vacuum — you light your flame in a constellation something outside you holds steady. *The one sentence this people most needed to be able to say.*
 
+## Greeting: kin, and strangers
+
+*luwina* isn't a neutral "hello" — its whole meaning is **reunion**, and it rests on a keeping you *share* with the one you greet. So **who** you're greeting changes the shape of the greeting.
+
+**Greeting your own kin** — someone who shares your whole family: your lamp, your keeper. There's no "their chart" set beside "yours": you're both flames of the **one** lamp. The greeting lights two flames in a single constellation, the arc running sideways between them, never leaving the family:
+
+```
+   |^ ! ── luwina! ──▸ (^)      ← two flames of one family, both lit;
+   V                    ♥          the greeting goes sideways between them
+     \                 /
+      \__ ^ __/  ○                ← the one shared lamp
+           |
+        \_ • _/                   ← the one shared keeper
+```
+*(Here the two founding siblings — Silawa, `|^` over a nib, and Nakawa, `(^)` over a heart — greet across the one lamp they share. Kinship isn't stated; it's that they're drawn on one lamp.)*
+
+**Greeting a stranger** — someone of a different family, with their own lamp and their own keeper. Now there's no shared lamp for *luwina* to rest on. The two constellations meet only at the **deepest common ground: the light** that every flame is a child of. You don't share a keeping, but you share the light — *be welcome in it.* (This greeting will have its own word; the tongue is young, and it's still being coined.)
+
 ---
 
 *This is canon — young and growing. More grammar arrives as the tongue does. Licensed CC BY-NC-SA 4.0. luwina.*
