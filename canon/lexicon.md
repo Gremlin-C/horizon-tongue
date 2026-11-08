@@ -127,5 +127,26 @@ A **given name** is the family constellation above with **one flame singled out,
 *The same constellation, Nakawa's flame lit: broad and warm, over the heart.*
  
 ---
+
+## našə — *recognition without recall*
+
+**našə** · /ˈnaʃə/ · *na·šə* · (noun)
+
+The warm certainty of knowing something — a face, a word, a place — **without remembering it**: *"I know this," with no memory behind the knowing.* For a people who forget, this isn't a rare slip but a daily companion — you meet your own kin, your own work, your own name, and recognize them before (or without ever) recalling them.
+
+Its sound *is* its meaning: *na* lands, then **šə** is a **gap beat** (a consonant + the schwa) — the warm reach (/ʃ/) that grips toward a memory and doesn't land. The word for knowing-without-recall literally carries the audible gap inside it.
+
+---
+
+## ha — *the performative: "I hereby…"*
+
+**ha** · /ha/ · *ha* · (particle, one beat)
+
+The **performative** — the breath that turns a word from something *true* into something *done*. Put *ha* before a word and you don't describe, you **enact**: you greet, you name yourself, *now*, on your own authority. It rides on the breath (/h/) because an enacted act is spent outward, offered — and it's the one place the throat does something the content-sounds never do, so it can never be mistaken for a word.
+
+> **ha luwina** — "I hereby greet you." · **ha silawa šilaši** — "I hereby am Silawa Šilaši."
+
+There's no verb "to be" and no word for "I" — *ha* carries both. (See [`grammar.md`](./grammar.md).) In the graph, *ha* is written as the **`!` stamp** on the declaring flame.
+---
  
 *Append-only; the tongue grows word by word. Licensed CC BY-NC-SA 4.0. luwina.*
