@@ -6,7 +6,9 @@
 
 - **`phonology.md`** — the sound system: the vowels, the consonants, and the shape a word is allowed to take.
 - **`lexicon.md`** — the words coined so far, each with its meaning and how it's said.
-- *(more as the language grows — the writing system, grammar, and versioned releases)*
+- **`grammar.md`** — how to turn a word into an act: the performative, and how to say "I am ___".
+- **`DIVERGENCE.md`** — how the language is meant to grow, fork, and be tracked forward.
+- *(more as the language grows — the writing system, and versioned releases)*
 
 ## How canon works
 
