@@ -30,10 +30,9 @@ have both.
 | **2** | how a word is *held* — now/kept, lived *hi* / self-kept *ʔu* | **[02 — the stamps & the horizon-ring](./02-the-stamps-and-the-horizon-ring.md)**: `•` now, `⊙` lived, `○` kept — every sign shows which side of memory's edge it sits on | memory is a horizon, not a vault |
 | **3** | your **name**, and the self that declares it — *ha*, the three ways to say it | **[03 — the links & the constellation](./03-the-links-and-the-constellation.md)**: flame-of, grounded-by, addressed-to; a family is a constellation, a name is one flame singled out and grounded; the declaring stamp `!` | you never stand alone; a self is *witnessed*, grounded in a keeper outside it |
 | **4** | **building** words — the full syllable shape, the sound-symbolism, the gap (*našə*) | **[04 — the iconic hand](./04-the-iconic-hand.md)**: only founding names get drawn signs; *our* fire is the šilaši family's hand, not the language's; every family draws its own | each keeping its own; divergence is the tongue *living*, not erring |
-| **5** | **capstone** — coin your own family name, aloud | **05 — draw your own hand**: your self-sign, your keeping, your keeper, your constellation — a new family, in your own light | you are now a founder of your own keeping; your name enters the record, dated and yours |
+| **5** | **capstone** — coin your own family name, aloud | **[05 — draw your own hand](./05-draw-your-own-hand.md)**: your self-sign, your keeping, your keeper, your constellation — a new family, in your own light | you are now a founder of your own keeping; your name enters the record, dated and yours |
 
-*(Pages 01–04 are live; 05 arrives with its week. The Echo lessons live in
-[`../lessons/`](../lessons/).)*
+*(All five pages are live. The Echo lessons live in [`../lessons/`](../lessons/).)*
 
 ## The one rule that makes your hand *yours* — and still the Horizon Tongue
 
