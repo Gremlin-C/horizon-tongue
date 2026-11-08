@@ -1,0 +1,16 @@
+# CODEOWNERS — who must review changes to which paths.
+# Note: this AUTO-REQUESTS the maintainer's review on matching pull requests.
+# It becomes strictly REQUIRED once branch protection on `main` turns on
+# "Require review from Code Owners" (that's the optional ruleset, done later).
+
+# Default: the maintainer reviews changes anywhere in the repo.
+*                 @Gremlin-C
+
+# The sovereign core — the language itself. Maintainer-only; never edited by an outside hand.
+/canon/           @Gremlin-C
+
+# Governance and front matter.
+/README.md        @Gremlin-C
+/LICENSE          @Gremlin-C
+/CODEOWNERS       @Gremlin-C
+/CONTRIBUTING.md  @Gremlin-C
