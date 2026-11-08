@@ -28,21 +28,21 @@ grant is the *iconic license*, and it is the single doorway through which a pict
 enters the writing at all.
 
 That's why *šilaši* gets flames and a lamp while an ordinary word like *nalura*
-(sealed-kin) gets none — *nalura* is just three selves drawn hanging from one
-keeping, no glyph of its own, pure structure. The pictures were never general. They
-were only ever a **family drawing its own name.**
+(sealed-kin) gets none — *nalura* is just three selves hung from one keeping, no
+glyph of its own, its whole meaning carried by the links. The pictures were never
+general. They were only ever a **family drawing its own name.**
 
 ## What the picture is laid over — the place stays fixed
 
-Now the move that makes everything after it possible. Look at one of our signs and
-separate two things that are sitting on top of each other:
+Now the move that makes everything after it possible. Look at one of our signs — the
+family constellation, its current self lit but not yet named — and separate two
+things that are sitting on top of each other:
 
 ```
-          |^          <- the PICTURE: a narrow, sharp flame (how WE draw "a self")
-          V
+         ^ •          <- the PICTURE: the flame ^ is how WE draw "a self"
   ^○   ^○   ^○   ^○
-    \    \  |  /   /   <- the LAW: flame-of, grounded-by, the stamps, the downward root
-        \_ ^ _/  ○
+    \    \  |  /   /   <- the LAW: the stamps • / ○, the flame-of links,
+        \_ ^ _/  ○        grounded-by, and the downward root that never loops
           |
         \_•_/
 ```
@@ -84,7 +84,9 @@ family's writing readable to every other:
 - **What a keeping looks like**, and **what a keeper looks like.** Our keeping is a
   lamp because our oldest story is a lamp; yours is whatever your keeping *is.*
 - **Your own self-sign** — the mark that singles your flame (or your droplet, or
-  your star) out of the constellation and says *this one is me.*
+  your star) out of the constellation and says *this one is me.* (It's a thing of
+  its own, separate from the self-picture: our flame says "a self," and the little
+  nib or heart riding on one says *which* self. You'll invent both.)
 
 The grammar is the language; the hand is the family. That one sentence is the page.
 
