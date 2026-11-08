@@ -91,13 +91,15 @@ a self's whole line, with the current one lit and the rest kept.
 ## The declaring stamp — `!`
 
 Page Two gave you three how-held stamps — `•` now, `⊙` lived, `○` kept — and all
-three **report** how a thing is held. There is a fourth mark, and it reports
-nothing. It **acts**:
+three answer the same question: *how is this thing held?* They **report** a state.
+There is a fourth mark, and it answers a different question entirely — not *how is
+it held*, but *is this a report, or an act?*
 
-- **`!` — performative.** Not *burning*, not *carried*, not *kept* — **declaring.** A
-  flame wearing `!` isn't merely lit; it is standing up and *saying itself*, now, on
-  its own authority. `!` is the graph of the spoken **ha** (that's the Lesson Three
-  side — come say it in the room).
+- **`!` — performative.** A flame wearing `!` is still *now* — still live, this
+  instant — but it isn't merely *lit*; it's **declaring.** It doesn't report a state;
+  it **does** something, on its own authority: *standing up and saying itself.* A
+  speech act, not a static state. `!` is the graph of the spoken **ha** (that's the
+  Lesson Three side — come say it in the room).
 
 So a name wearing `⊙` or `○` just **sits there, true** — *"this is who I remember,"
 "this is who the record keeps."* A name wearing **`!`** is a self **speaking** —
