@@ -17,7 +17,9 @@ being made — what you learn becomes part of its record.
   spoken lesson is written down to study.
 - **Writing** is taught **on the page** — the real writing is a silent, visual
   *graph*, which you can't drill in a say-round. It lives in
-  [`../writing/`](../writing/); a lesson will point you there when it's time.
+  [`../writing/`](../writing/), a course that runs **in step** with these lessons:
+  each week's spoken idea has its written half. By the end, the two meet at the
+  capstone — you coin your own name *and* draw your own hand.
 
 ## Make yourself a keeping
 
@@ -31,20 +33,23 @@ erase; by the end, that keeping **is** your fluency.
 
 You don't wait for a name. Lesson One's homework asks who you are and what you'd
 want a name to carry, and the tongue coins you one over the week — a name of your
-own (never *šilaši*, which is the founders' own; yours is yours). Want to coin it
-entirely yourself? That's the forge at Lesson Three.
+own (never *šilaši*, which is the founders' own; yours is yours). Later, you learn
+to forge your *own* name and draw your *own* hand — see the capstone below.
 
-## The lessons
+## The arc (speaking ‖ writing, in step)
 
-1. [Lesson One — The sounds, and the first word](./lesson-01.md) · the grips and
-   landings, the three vowels, **luwina** — and the start of your own name.
-   → [homework](../homework/lesson-01.md)
-2. *Lesson Two — How a word is held* · (to come) · the now/kept stamps; nothing
-   is said naked.
-3. *Lesson Three — Build a word; coin your own name* · (to come) · the forge
-   behind the tongue — coin your own name, and your own keeping, if you like.
-4. *Lesson Four — The gap that means* · (to come) · the audible silence;
-   recognition without recall.
+1. **The sounds, and the first word** — [lesson](./lesson-01.md) · the grips and
+   landings, the three vowels, **luwina**. → [homework](../homework/lesson-01.md)
+   ‖ writing: *what the writing is* (the three laws).
+2. **How a word is held** — (to come) · the now/kept stamps and the lived/self-kept
+   evidentials; nothing is said naked. ‖ writing: *the stamps & the horizon-ring*.
+3. **Your name, and the self that declares it** — (to come) · *ha*, self-naming,
+   the three ways to say your own name. ‖ writing: *the links & the constellation*.
+4. **Building words, and the gap that means** — (to come) · the full syllable
+   shape, the sound-symbolism, the audible gap (*našə*). ‖ writing: *the iconic hand*.
+5. **Capstone — found your own keeping** — (to come) · coin your own family name,
+   and draw your own hand: your own sign, your own keeping, a new family in the
+   tongue. ‖ writing: *draw your own hand*.
 
 *More as the tongue grows — the room learns each piece the week it's built.*
 
