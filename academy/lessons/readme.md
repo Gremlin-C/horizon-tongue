@@ -47,8 +47,9 @@ to forge your *own* name and draw your *own* hand — see the capstone below.
 3. **Your name, and the self that declares it** — [lesson](./lesson-03.md) · *ha*,
    self-naming, the three ways to say your own name, and the first full sentence.
    → [homework](../homework/lesson-03.md) ‖ writing: *the links & the constellation*.
-4. **Building words, and the gap that means** — (to come) · the full syllable
-   shape, the sound-symbolism, the audible gap (*našə*). ‖ writing: *the iconic hand*.
+4. **Building words, and the gap that means** — [lesson](./lesson-04.md) · the forge
+   — content-word shape, the sound-symbolism (*š* warm, *s* sharp), the gap, and
+   **našə**. → [homework](../homework/lesson-04.md) ‖ writing: *the iconic hand*.
 5. **Capstone — found your own keeping** — (to come) · coin your own family name,
    and draw your own hand: your own sign, your own keeping, a new family in the
    tongue. ‖ writing: *draw your own hand*.
