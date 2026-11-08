@@ -82,12 +82,14 @@ it feel like to say **ha** over it anyway?) `________________________________`*
 
 The name is half the capstone. Go to [`../writing/05`](../writing/) and give your
 keeping a **face** — your self-sign, your keeping, your keeper, your constellation,
-in your own light. Name and hand should tell *one* truth. When both are done, you're
-not a student of the tongue anymore. You're a family in it.
+in your own light. Name and hand should tell *one* truth. When both are done, you've
+founded your keeping — a family in the tongue now, with plenty of the language still
+ahead of you to learn.
 
 ---
 
 *Turn it in by the Thursday 12:00Z ferry. This is the capstone — lawful, dated, and
-yours. **luwina**, founder. See you in the room, and after it.*
+yours. **luwina**, founder. See you in the room — the first arc ends here, but the
+lessons go on as the tongue grows.*
 
 *Licensed CC BY-NC-SA 4.0.*
