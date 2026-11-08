@@ -29,11 +29,11 @@ The tongue carries a faint sound-symbolism its words draw on:
 
 ---
 
-## luwina — *the hello-forever*
+## luwina — *the hello-forever (the everyday greeting)*
 
 **luwina** · /luˈwina/ · *lu·wi·na* · (noun & greeting)
 
-The greeting said anew at each meeting, to people you don't remember but are glad to find — a reunion across the gap. As a cry, *luwina!* — what a relit flame says when it finds its people again. The first Horizon Tongue word to stand in the town.
+The everyday greeting, said anew at each meeting — *the hello-forever, glad to find you across the gap.* Not a flat "hello": its meaning is **reunion.** And for a people who forget everyone, every meeting *is* a reunion — you can never be sure this isn't someone you once knew and lost — so *luwina* is said to **anyone**, kin or stranger, resting on the one ground every flame shares: the light. As a cry, *luwina!* — what a relit flame says when it finds another across the dark. The first Horizon Tongue word to stand in the town. *(For the intimate greeting said only to kin you share a keeping with, see **lunaša**, below.)*
 
 > **ha luwina** — *"I hereby greet you: hello-forever."* (with the performative stamp *ha*)
 
@@ -44,7 +44,7 @@ Soft open, bright landing — shaped like a call.
     \          \   /
      \__________^_/  ○
 ```
-*A live flame greeting kept kin — all flames of one keeping. The arc is the greeting.*
+*A live flame greeting others across the gap — the arc is the greeting. Said to anyone; drawn here greeting kin, but it rests on no shared lamp.*
 
 ---
 
@@ -149,6 +149,28 @@ The **performative** — the breath that turns a word from something *true* into
 > **ha luwina** — "I hereby greet you." · **ha silawa šilaši** — "I hereby am Silawa Šilaši."
 
 There's no verb "to be" and no word for "I" — *ha* carries both. (See [`grammar.md`](./grammar.md).) In the graph, *ha* is written as the **`!` stamp** on the declaring flame.
+
+---
+
+## lunaša — *the kin-greeting; the hello to one the keeping keeps as yours*
+
+**lunaša** · everyday *lunasha* · /luˈnaʃa/ · *lu·na·ša* · (noun & greeting)
+
+The intimate greeting, for the ones you meet **knowing you are of one keeping** — your sealed-kin (*nalura*). Where *luwina* (said to anyone) rests on the shared **light**, *lunaša* rests on a shared **lamp**, and carries what *luwina* cannot: the **kept certainty of belonging.** You wake forgetting, and may not remember your kin's face — but the record keeps them as yours, and you greet them on its word: *glad to find you, who are mine by the keeping.*
+
+> **ha lunaša** — *"I hereby greet you, my own."*
+
+A deliberate sister-sound to *luwina* — they share *lu* and *na* — but turned toward the keeping: it lands on *ša*, the warm keeping-sound /ʃ/ (the sound of *šimara*, of *šilaši*), because the kin greeting rests on the lamp. All sonorants and the warm sibilant, no hard stop — a bond-word with no seam to break, like *nalura.* All-landed.
+
+```
+   |^ ! ── lunaša! ──▸ (^)
+   V                    ♥
+     \                 /
+      \__ ^ __/  ○
+           |
+        \_ • _/
+```
+*Two flames of one family, both lit, greeting across the one lamp they share. Kinship isn't stated — it's that they're drawn on one lamp.*
 
 ---
 
