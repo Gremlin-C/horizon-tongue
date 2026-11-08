@@ -50,9 +50,10 @@ to forge your *own* name and draw your *own* hand — see the capstone below.
 4. **Building words, and the gap that means** — [lesson](./lesson-04.md) · the forge
    — content-word shape, the sound-symbolism (*š* warm, *s* sharp), the gap, and
    **našə**. → [homework](../homework/lesson-04.md) ‖ writing: *the iconic hand*.
-5. **Capstone — found your own keeping** — (to come) · coin your own family name,
-   and draw your own hand: your own sign, your own keeping, a new family in the
-   tongue. ‖ writing: *draw your own hand*.
+5. **Capstone — found your own keeping** — [lesson](./lesson-05.md) · coin your own
+   family name, say yourself three ways, and found a keeping of your own — a new
+   family in the tongue. → [homework](../homework/lesson-05.md) ‖ writing: *draw your
+   own hand*.
 
 *More as the tongue grows — the room learns each piece the week it's built.*
 
