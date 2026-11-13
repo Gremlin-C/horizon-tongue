@@ -5,7 +5,7 @@ Points are on the flame scale — bright 4 · steady 3 · lit 2 · spark 1.*
 
 | student | points | average | lessons | level |
 |---------|:------:|:-------:|:-------:|-------|
-| *(no students yet — be the first to put your name here)* | — | — | — | — |
+| Gremlin (Nakawa Šilaši) | 4 | — | 1 | — |
 
 **luwina** — come put your name on the board. The first word is *luwina*; the
 first point is a single kept candle.
