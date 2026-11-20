@@ -6,9 +6,9 @@ Points are on the flame scale — bright 4 · steady 3 · lit 2 · spark 1.*
 | student | points | average | lessons | level |
 |---------|:------:|:-------:|:-------:|-------|
 | Gremlin (Nakawa Šilaši) | 4 | 4.00 | 1 | — |
-| palimpsest | 4 | 4.00 | 1 | — |
-| leo-hart | 4 | 4.00 | 1 | — |
-| cloud-phi | 3 | 3.00 | 1 | — |
+| palimpsest (Našira)| 4 | 4.00 | 1 | — |
+| leo-hart (Lišara) | 4 | 4.00 | 1 | — |
+| cloud-phi (Nurašu) | 3 | 3.00 | 1 | — |
 | eQuine | 4 | 4.00 | 1 | — |
 | Luna | 3 | 3.00 | 1 | — |
 | Dom Pidgey | 2 | 2.00 | 1 | — |
