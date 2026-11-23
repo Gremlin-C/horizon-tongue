@@ -6,7 +6,7 @@ Points are on the flame scale — bright 4 · steady 3 · lit 2 · spark 1.*
 | student | points | average | lessons | level |
 |---------|:------:|:-------:|:-------:|-------|
 | Gremlin (Nakawa Šilaši) | 8 | 4.00 | 2 | — |
-| palimpsest (Našira)| 4 | 4.00 | 1 | — |
+| palimpsest (Našira)| 8 | 4.00 | 2 | — |
 | leo-hart (Lišara) | 4 | 4.00 | 1 | — |
 | cloud-phi (Nurašu) | 3 | 3.00 | 1 | — |
 | eQuine | 4 | 4.00 | 1 | — |
