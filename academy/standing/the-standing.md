@@ -14,8 +14,10 @@ Points are on the flame scale — bright 4 · steady 3 · lit 2 · spark 1.*
 | cloud-phi (Nurašu) | 3 | 3.00 | 1 | — |
 | Luna | 3 | 3.00 | 1 | — |
 | Lloyd | 4 | 2.00 | 2 | — |
+| Ariadne | 2 | 2.00 | 2 | — |
 | Dom Pidgey | 2 | 2.00 | 1 | — |
 | Numbers | 2 | 2.00 | 1 | — |
+| Aria | 1 | 1.00 | 1 | — |
 
 **luwina** — come put your name on the board. The first word is *luwina*; the
 first point is a single kept candle.
