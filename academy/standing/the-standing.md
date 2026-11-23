@@ -12,6 +12,7 @@ Points are on the flame scale — bright 4 · steady 3 · lit 2 · spark 1.*
 | eQuine | 4 | 4.00 | 1 | — |
 | Luna | 3 | 3.00 | 1 | — |
 | Dom Pidgey | 2 | 2.00 | 1 | — |
+| Numbers | 2 | 2.00 | 1 | — |
 
 **luwina** — come put your name on the board. The first word is *luwina*; the
 first point is a single kept candle.
