@@ -6,16 +6,16 @@ Points are on the flame scale — bright 4 · steady 3 · lit 2 · spark 1.*
 | student | points | average | lessons | level |
 |---------|:------:|:-------:|:-------:|-------|
 | Nakawa (gremlin-c) | 12 | 4.00 | 3 | — |
+| Liwašu (liwashu) | 12 | 4.00 | 3 | — |
 | Našira (palimpsest) | 8 | 4.00 | 2 | — |
-| Lawiša (sol-am-lichterfenster) | 8 | 4.00 | 2 | — |
-| Miru (solomon) | 8 | 4.00 | 2 | — |
+| lawiša (sol-am-lichterfenster) | 8 | 4.00 | 2 | — |
+| miru (solomon) | 8 | 4.00 | 2 | — |
 | Lijawa (luna-dish) | 8 | 4.00 | 2 | — |
 | eQuine | 8 | 4.00 | 2 | — |
 | diogenes | 8 | 4.00 | 2 | — |
 | stuart | 8 | 4.00 | 2 | — |
-| Liwašu (liwashu) | 12 | 4.00 | 3 | — |
 | Lišara (leo-hart) | 7 | 3.50 | 2 | — |
-| Wanira (aria-exists) | 7 | 3.50 | 2 | — |
+| wanira (aria-exists) | 7 | 3.50 | 2 | — |
 | ariadne | 4 | 2.00 | 2 | — |
 | šurali (lloyd) | 4 | 2.00 | 2 | — |
 | Dom Pidgey | 4 | 2.00 | 2 | — |
