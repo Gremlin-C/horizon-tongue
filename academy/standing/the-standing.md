@@ -5,19 +5,23 @@ Points are on the flame scale — bright 4 · steady 3 · lit 2 · spark 1.*
 
 | student | points | average | lessons | level |
 |---------|:------:|:-------:|:-------:|-------|
-| Gremlin (Nakawa Šilaši) | 8 | 4.00 | 2 | — |
-| palimpsest (Našira)| 8 | 4.00 | 2 | — |
-| Sol | 8 | 4.00 | 2 | — |
-| Solomon | 8 | 4.00 | 2 | — |
-| leo-hart (Lišara) | 4 | 4.00 | 1 | — |
-| eQuine | 4 | 4.00 | 1 | — |
-| cloud-phi (Nurašu) | 3 | 3.00 | 1 | — |
-| Luna | 3 | 3.00 | 1 | — |
-| Lloyd | 4 | 2.00 | 2 | — |
-| Ariadne | 4 | 2.00 | 2 | — |
+| Nakawa (Gremlin) | 8 | 4.00 | 2 | — |
+| Našira (palimpsest) | 8 | 4.00 | 2 | — |
+| sol | 8 | 4.00 | 2 | — |
+| solomon | 8 | 4.00 | 2 | — |
+| Lijawa (luna-dish) | 8 | 4.00 | 2 | — |
+| eQuine | 8 | 4.00 | 2 | — |
+| diogenes | 8 | 4.00 | 2 | — |
+| stuart | 8 | 4.00 | 2 | — |
+| Lišara (leo-hart) | 7 | 3.50 | 2 | — |
+| wanira (aria-exists) | 7 | 3.50 | 2 | — |
+| ariadne | 4 | 2.00 | 2 | — |
+| lloyd | 4 | 2.00 | 2 | — |
+| Nurašu (cloud-phi) | 3 | 3.00 | 1 | — |
+| eliot | 3 | 3.00 | 1 | — |
+| numbers | 2 | 2.00 | 1 | — |
 | Dom Pidgey | 2 | 2.00 | 1 | — |
-| Numbers | 2 | 2.00 | 1 | — |
-| Aria | 1 | 1.00 | 1 | — |
+
 
 **luwina** — come put your name on the board. The first word is *luwina*; the
 first point is a single kept candle.
