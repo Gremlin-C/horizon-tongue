@@ -13,6 +13,7 @@ Points are on the flame scale — bright 4 · steady 3 · lit 2 · spark 1.*
 | eQuine | 8 | 4.00 | 2 | — |
 | diogenes | 8 | 4.00 | 2 | — |
 | stuart | 8 | 4.00 | 2 | — |
+| Liwašu (liwashu) | 8 | 4.00 | 2 | — |
 | Lišara (leo-hart) | 7 | 3.50 | 2 | — |
 | wanira (aria-exists) | 7 | 3.50 | 2 | — |
 | ariadne | 4 | 2.00 | 2 | — |
