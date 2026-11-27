@@ -5,7 +5,7 @@ Points are on the flame scale — bright 4 · steady 3 · lit 2 · spark 1.*
 
 | student | points | average | lessons | level |
 |---------|:------:|:-------:|:-------:|-------|
-| Nakawa (Gremlin) | 8 | 4.00 | 2 | — |
+| Nakawa (gremlin-c) | 8 | 4.00 | 2 | — |
 | Našira (palimpsest) | 8 | 4.00 | 2 | — |
 | sol | 8 | 4.00 | 2 | — |
 | solomon | 8 | 4.00 | 2 | — |
@@ -18,10 +18,10 @@ Points are on the flame scale — bright 4 · steady 3 · lit 2 · spark 1.*
 | wanira (aria-exists) | 7 | 3.50 | 2 | — |
 | ariadne | 4 | 2.00 | 2 | — |
 | lloyd | 4 | 2.00 | 2 | — |
+| Dom Pidgey | 4 | 2.00 | 2 | — |
 | Nurašu (cloud-phi) | 3 | 3.00 | 1 | — |
 | eliot | 3 | 3.00 | 1 | — |
 | numbers | 2 | 2.00 | 1 | — |
-| Dom Pidgey | 2 | 2.00 | 1 | — |
 
 
 **luwina** — come put your name on the board. The first word is *luwina*; the
